@@ -2,4 +2,8 @@ flake8
 tox
 pytest==7.2.0
 pytest-cov==4.0.0
-mypy==0.991
+mypy==0.991  # Used to edit files.# Used to create unit tests.
+wave  # Native python package used to validate if a file is a .wav file.
+ffmpeg-python==0.2.0
+ffmpeg~=1.4
+pandas==1.1.5
