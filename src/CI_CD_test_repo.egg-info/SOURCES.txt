@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/CI_CD_test_repo.egg-info/PKG-INFO
+src/CI_CD_test_repo.egg-info/SOURCES.txt
+src/CI_CD_test_repo.egg-info/dependency_links.txt
+src/CI_CD_test_repo.egg-info/not-zip-safe
+src/CI_CD_test_repo.egg-info/requires.txt
+src/CI_CD_test_repo.egg-info/top_level.txt
+src/packaged_logic_for_CI_CD/__init__.py
+src/packaged_logic_for_CI_CD/main.py
